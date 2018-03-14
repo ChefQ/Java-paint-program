@@ -1,0 +1,63 @@
+# Fill in, commit and push each day.
+# Group Member: FILL THIS IN
+
+Nov 25, 2016
+	Yesterday : Did nothing
+	Today     : Clone the git repo
+	Obstacles :
+
+Nov 26, 2016
+	Yesterday : Cloned the git repo
+	Today     : Started work on the save function
+	Obstacles :
+	
+Nov 27, 2016
+	Yesterday : Got the save function to work
+	Today     : Start work on understanding what to do for load
+	Obstacles :
+	
+Nov 28, 2016
+	Yesterday : Started writing regular expression for PaintSaveFileParser
+	Today     : Try to complete load function
+	Obstacles :
+	
+Nov 29, 2016
+	Yesterday : Started writing the regular expression
+	Today     : Complete the load function
+	Obstacles : 
+
+Nov 30, 2016
+	Yesterday : Completed the load function
+	Today     : Start reading on floating point 
+	Obstacles : Correcting the regular expressions was a problem
+
+Dec 1, 2016
+	Yesterday : Started reading floating point
+	Today     : Start working on floating point questions. Complete error definitions for PaintSaveFileParser.txt.
+	Obstacles :
+	
+Dec 2, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Dec 3, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Dec 4, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Dec 5, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+
+Dec 6, 2016
+	Yesterday :
+	Today     :
+	Obstacles :
+	
